@@ -16,7 +16,7 @@ const TelegramWidget = () => {
                     data-telegram-login="Mytelebot" // bot's username
                     data-size="large"
                     data-radius="10"
-                    data-auth-url="http://localhost:3000/api/auth" // auth endpoint
+                    data-auth-url="https://my-tele-chat-app.netlify.app/api/auth" // auth endpoint
                     //data-payload="some_payload" // Optional payload
                     data-userpic="false"
                     data-lang="en"
